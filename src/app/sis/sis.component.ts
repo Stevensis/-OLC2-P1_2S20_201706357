@@ -7,7 +7,7 @@ import { Component, OnInit } from '@angular/core';
 })
 export class SisComponent implements OnInit {
 
-  constructor() { }
+  constructor() { console.log("asdasd"); }
 
   ngOnInit(): void {
   }
