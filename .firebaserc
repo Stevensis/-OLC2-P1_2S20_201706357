@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "chating-b3bbf": {
+      "hosting": {
+        "hola-mundo": [
+          "chating-b3bbf"
+        ]
+      }
+    }
+  }
+}
